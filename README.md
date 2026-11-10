@@ -125,5 +125,10 @@ BookNotes/
 GitHub: [Husnain200](https://github.com/Husnain200)
 
 ---
+## Screenshots
+
+### BookNotes Homepage
+
+![BookNotes Homepage](screenshots/homepage.png)
 
 Built as a full-stack web development project to practise backend development, database operations, API integration, and server-side rendering.
